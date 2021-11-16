@@ -1,0 +1,3 @@
+/Users/mkeshft/CLionProjects/DogYears/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mkeshft/CLionProjects/DogYears/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mkeshft/CLionProjects/DogYears/cmake-build-debug/CMakeFiles/DogYears.dir
